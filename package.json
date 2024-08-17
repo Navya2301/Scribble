@@ -1,0 +1,22 @@
+{
+  "name": "scribble",
+  "version": "1.0.0",
+  "description": "Just a small notes app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navya2301/Scribble.git"
+  },
+  "keywords": [
+    "scribble"
+  ],
+  "author": "Navya Sri Racha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Navya2301/Scribble/issues"
+  },
+  "homepage": "https://github.com/Navya2301/Scribble#readme"
+}
